@@ -1,0 +1,7 @@
+echo "# Git_One" >> README.md
+git init
+git add REAME .md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Eungyeo141/Git_One.git
+git push -u origin master
